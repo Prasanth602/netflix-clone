@@ -9,10 +9,10 @@ function App() {
   return (
     <>
     <SignupPage></SignupPage>
-    {/* <SigninPage /> */}
-      {/* <HomePage> 
+    <SigninPage /> 
+     <HomePage> 
         <HeaderComponent></HeaderComponent> 
-      </HomePage> */}
+      </HomePage>
       </>  
   );
 }
