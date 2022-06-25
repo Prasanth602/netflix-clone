@@ -1,0 +1,9 @@
+.subscribe-email{
+    padding: 12px;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 16px;
+}
+.subscribe-email input {
+    max-width: 1200px;
+}

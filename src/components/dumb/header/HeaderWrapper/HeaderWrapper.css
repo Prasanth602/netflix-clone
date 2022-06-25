@@ -1,0 +1,8 @@
+.header-wrapper{
+    background: url(../../../../images/home/netflix-bg-image.webp);
+    background-size: cover;
+    background-position: top left;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+    padding: 28px;
+}

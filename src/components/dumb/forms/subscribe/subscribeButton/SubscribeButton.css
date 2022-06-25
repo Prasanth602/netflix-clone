@@ -1,0 +1,14 @@
+.subscribe-button{
+    background-color: #e50914;
+    width: fit-content;
+    padding: 10px;
+    align-items: center;
+    cursor: pointer;
+    font-size: 18px;
+    margin-bottom: 1rem;
+}
+.subscribe-button a{ 
+    color: #ffff;
+    text-decoration: none;
+    font-weight: 600;
+}

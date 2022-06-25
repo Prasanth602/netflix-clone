@@ -1,0 +1,15 @@
+.accordian-component{
+    background-color: black;
+    padding-top: 60px;
+   
+}
+.accordian-heading{
+    color: #ffff;
+    font-size: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.accordian-wrapper{
+    max-width: 815px;
+    margin: auto;
+}
